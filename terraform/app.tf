@@ -3,6 +3,7 @@ resource "aws_instance" "app_000" {
   instance_type = "t2.micro"
   disable_api_termination = true
   subnet_id = "${aws_subnet.main_public.id}"
+  associate_public_ip_address = true
 
   lifecycle = {
     ignore_changes = [
