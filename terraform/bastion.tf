@@ -48,3 +48,32 @@ resource "aws_security_group" "bastion" {
     Name = "bastion"
   }
 }
+
+resource "aws_security_group" "ssh_via_bastion" {
+  name = "ssh-via-bastion"
+  description = "Security group for instances can be ssh-connected via bastion"
+
+  vpc_id = "${aws_vpc.main.id}"
+
+  ingress {
+    protocol  = "tcp"
+    from_port = 22
+    to_port   = 22
+    security_groups = [
+      "${aws_security_group.bastion.id}"
+    ]
+  }
+
+  egress {
+    protocol  = "tcp"
+    from_port = 22
+    to_port   = 22
+    security_groups = [
+      "${aws_security_group.bastion.id}"
+    ]
+  }
+
+  tags = {
+    Name = "ssh-via-bastion"
+  }
+}
