@@ -4,6 +4,13 @@ resource "aws_instance" "bastion" {
   disable_api_termination = true
   subnet_id = "${aws_subnet.main_public.id}"
 
+  lifecycle = {
+    ignore_changes = [
+      "ami",
+      "user_data"
+    ]
+  }
+
   vpc_security_group_ids = [
     "${aws_security_group.bastion.id}"
   ]
@@ -26,8 +33,7 @@ resource "aws_security_group" "bastion" {
     from_port = 22
     to_port   = 22
     cidr_blocks = [
-      "0.0.0.0/0"
-      # "122.212.158.58/32"
+      "122.212.158.58/32"
     ]
   }
 
