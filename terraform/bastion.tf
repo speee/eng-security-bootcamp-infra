@@ -33,7 +33,9 @@ resource "aws_security_group" "bastion" {
     from_port = 22
     to_port   = 22
     cidr_blocks = [
-      "122.212.158.58/32"
+      # from Speee
+      "122.212.158.58/32",
+      "124.35.147.130/32"
     ]
   }
 

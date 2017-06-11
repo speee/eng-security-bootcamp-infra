@@ -34,7 +34,12 @@ resource "aws_security_group" "rproxy" {
     protocol  = "tcp"
     from_port = 80
     to_port   = 80
-    cidr_blocks = ["0.0.0.0/0"]
+    cidr_blocks = [
+      "0.0.0.0/0"
+      # from Speee (disabled)
+      # "122.212.158.58/32",
+      # "124.35.147.130/32"
+    ]
   }
 
   ingress {
