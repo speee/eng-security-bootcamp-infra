@@ -9,7 +9,7 @@ data "aws_ami" "ubuntu-xenial" {
 }
 
 data "template_file" "id_rsa-infra-pub" {
-  template = "${file("../templates/id_rsa.infra.pub")}"
+  template = "${file("templates/id_rsa.infra.pub")}"
 }
 
 resource "aws_key_pair" "infra" {
