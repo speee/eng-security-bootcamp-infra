@@ -1,0 +1,7 @@
+Host bastion.speee-sbc
+  Hostname bastion.speee-sbc.mrkn.jp
+  ProxyCommand none
+
+Host *.speee-sbc
+  StrictHostKeyChecking no
+  ProxyCommand ssh bastion.speee-sbc -W %h.mrkn.jp:%p
