@@ -13,3 +13,8 @@ resource "aws_route53_record" "bastion" {
   ttl = "60"
   records = ["${aws_eip.bastion.public_ip}"]
 }
+
+resource "aws_route53_zone" "internal" {
+  name = "speee-sbc.mrkn.jp"
+  vpc_id = "${aws_vpc.main.id}"
+}
