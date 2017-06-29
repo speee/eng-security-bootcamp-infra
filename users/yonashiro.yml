@@ -1,0 +1,8 @@
+---
+name: yonashiro
+full_name: Yu Yonashiro
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH7PoAZE/rxYRObbKvqQBVF9kVN9ffMAMsOXv/zHrQ8O yonashiro@r.recruit.co.jp

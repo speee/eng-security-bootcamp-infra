@@ -1,0 +1,8 @@
+---
+name: shimizu
+full_name: Ryosuke Shimizu
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDI5HuYflrPIMy/b7hknZu4dsiRAlvP348EjCPYNDho2dxn+cbv5Wyndk0FgfS/6LcshVIzuo7jRgiRHtxKLD/KSLnSNi1pUPtnIitxOZ5Rdd9ADkyhjFaixrT6yLWXU6ryo52quHexgaNGFynSg7oPs5KKTb6Fi169jW7tK7hYhNsQzEjjXC8OSXlaI0qXbSs0cW4t2KoTI/oBMYUyPRsw259EwBNx9NQO0KbYeceft6W1jCXL8PNMAKoC51Uo64Ufmc5ZGXc/OWQqNKlqbvGlC5wwWllGUhxE8bdGH81JWPsVUVfiiUwQaAj6HZfoyzHAis0UaKRZJmOyK2z2It2f 01014494@CA1454.local
