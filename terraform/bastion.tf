@@ -43,7 +43,9 @@ resource "aws_security_group" "bastion" {
     cidr_blocks = [
       # from Speee
       "122.212.158.58/32",
-      "124.35.147.130/32"
+      "124.35.147.130/32",
+      # mrkn
+      "153.175.224.167/32"
     ]
   }
 
