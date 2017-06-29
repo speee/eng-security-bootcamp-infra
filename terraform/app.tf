@@ -25,6 +25,14 @@ resource "aws_instance" "app_000" {
   }
 }
 
+resource "aws_route53_record" "app_000_internal" {
+  zone_id = "${aws_route53_zone.internal.zone_id}"
+  name = "app-000"
+  type = "A"
+  ttl = "30"
+  records = ["${aws_instance.app_000.private_ip}"]
+}
+
 resource "aws_security_group" "app_000" {
   name = "app-000"
   description = "Security group for app-000 instance"

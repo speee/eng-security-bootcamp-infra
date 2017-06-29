@@ -24,6 +24,14 @@ resource "aws_instance" "rproxy" {
   }
 }
 
+resource "aws_route53_record" "rproxy_internal" {
+  zone_id = "${aws_route53_zone.internal.zone_id}"
+  name = "rproxy"
+  type = "A"
+  ttl = "30"
+  records = ["${aws_instance.rproxy.private_ip}"]
+}
+
 resource "aws_security_group" "rproxy" {
   name = "rproxy"
   description = "Security group for rproxy instance"

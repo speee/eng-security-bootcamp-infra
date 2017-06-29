@@ -22,6 +22,14 @@ resource "aws_instance" "bastion" {
   }
 }
 
+resource "aws_route53_record" "bastion_internal" {
+  zone_id = "${aws_route53_zone.internal.zone_id}"
+  name = "bastion"
+  type = "A"
+  ttl = "30"
+  records = ["${aws_instance.bastion.private_ip}"]
+}
+
 resource "aws_security_group" "bastion" {
   name = "bastion"
   description = "Security group for bastion instance"
