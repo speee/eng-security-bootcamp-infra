@@ -1,0 +1,8 @@
+---
+name: yoshida
+full_name: Hirokazu Yoshida
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDCighjMlq/ToN0riH+cjvuUGMPYslWAj9NUBa9oBv8G hirokazu.yoshida@yoppi-macbook
