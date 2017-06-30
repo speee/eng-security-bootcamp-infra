@@ -14,6 +14,14 @@ resource "aws_route53_record" "bastion" {
   records = ["${aws_eip.bastion.public_ip}"]
 }
 
+resource "aws_route53_record" "wildcard" {
+  zone_id = "${aws_route53_zone.primary.zone_id}"
+  name = "*"
+  type = "A"
+  ttl = "60"
+  records = ["${aws_instance.rproxy.public_ip}"]
+}
+
 resource "aws_route53_zone" "internal" {
   name = "speee-sbc.mrkn.jp"
   vpc_id = "${aws_vpc.main.id}"
