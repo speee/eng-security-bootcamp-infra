@@ -44,10 +44,11 @@ resource "aws_security_group" "app_000" {
     from_port = 80
     to_port   = 80
     cidr_blocks = [
-      "0.0.0.0/0"
-      # from Speee (disabled)
-      # "122.212.158.58/32",
-      # "124.35.147.130/32"
+      # from Speee
+      "122.212.158.58/32",
+      "124.35.147.130/32",
+      # mrkn
+      "153.175.224.167/32"
     ]
   }
 
