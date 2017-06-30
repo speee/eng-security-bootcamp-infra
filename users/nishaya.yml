@@ -1,0 +1,8 @@
+---
+name: nishaya
+full_name: Kosuke Nishaya
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCmY2f+fn3obqdI3a12SwpBlLDvGzeaMGxGvnYbTCCDSOur4XbBy4l3i9ERYdVs8Xt8UtVyMr0Ru1ZU/h6KearWR9tpLRmDNG1Ug2LaH8FbfPK/TidNAl/awXguvDf8AWxs/bt8gdmO4uojE6logZB4icbYZIWgUuR3GQwPXzW+SXGfSfYwcrcogP4KkQ2X6lD3VmDgoPjvcoUZ+WfMsChuUglV/0aDQI60OgmMYd4tXNxj9tQIWNTTvvuVrNkJn8faUxC2ORhNmvohFt3BcIKtwKkZgr/2Bx1l1duAyUKJUBYJDY2owqrIcGO+/RV3UuIPTs/WK5CoU3Aj5rJ13diL2YvRj05+uU/GVM39cLKYumhTjxvdm2Ji7M9tAxQ++Jo0uPEaYJOwCMTpWkvGmx6/GeQDpGYAXJZMmasDWIMox6s1xIpJOxOaxpZD/BFXz1XVxRBgw/9J5T6M/bAK8FqL02tD6KcR1ZlaQktNOjaO4lyhGgJFadcIz+k7OiSeuH7gwfyeqJYKlBp04mOGBuc6YKcA3dfDoxMUE6USAoj4HeXX9oGNlhx+brFLoi+lpFVUofA4XTMa0WGyh+V0NWhdA0kNJyT5UwbEc2xyDsstNw8DCBSucIdOq41+Iku12vvOroSk649u9lGabLdjv2e/Ud+mnYKhEpTE2dC7gs18Gw== nishaya@users.noreply.github.com
