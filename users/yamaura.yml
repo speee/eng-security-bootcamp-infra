@@ -1,0 +1,8 @@
+---
+name: yamaura
+full_name: Wataru Yamaura
+shell: /bin/bash
+home:
+  .ssh:
+      authorized_keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIqHX4kxEMkS/dhPZU3+saUMAvqL83Oi2iDSgv2ZjQJQ wataru.yamaura@speee.jp
