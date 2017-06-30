@@ -1,0 +1,8 @@
+---
+name: tei
+full_name: Taisuke Miyake
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCddrP4+2Y5Q3zlpJhZ4uYSrthFFEZLdg3stKxmLyyPb6Rts66ptOqXDYnLAV3HChT6A20XvZ9ViV0YDQ3hwhrYlnRsoSWo45xPamTwYxipjhOh794Sd8+AznH1TrhNFuDH5RbIkJE45puGuJR/VWVSZ/PfuCbLT0nQ1fkZVPbmwRXv8ynjX/CO5QDbRDI1N3PLtJvSfIcuY7GBavkS3F4WfPhxJrNVOPww3YG2gjPepsfvsXNZOWxt1eIcCjFXbzaxEniKSfP6JtKVxWrtwx7yjc+u8VvpjQD17mD7zaRdofvmnDLF0xIrQLbGVfwhlw7mBKhjVLV3aSEeeRwxOPcH taisuke.miyake@speee.jp
