@@ -1,3 +1,1 @@
-require 'kondate'
-
-Kondate::ItamaeBootstrap.bootstrap(self)
+include_recipe "lib/recipe_helper"
