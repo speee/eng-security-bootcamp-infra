@@ -1,0 +1,8 @@
+---
+name: ihara
+full_name: Masahiro Ihara
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvwDf0mfeKSRvLs8MbRzD5vn+wC2DeeftQwbugK8aBnjLd+obkDhWy33+enlcZYBihtQg2jpbyGfcgDhPwhGS7goeZ7IBrB0fTsmIuarS4NXqLyMpjIdyjm1Hxfx3D6ubbCnfqKpZctmefyT9aSChxKVpkTVEjDzAMWtRHE9NX9src/MG85NJxuRU1h7a0SYWc2DqZW27F5rRCdIVMlVf5/YSAr1i1PLHFylx+y3uRPjYB+7KwmPxezMwuIUUXEO9LaQiAWrlaXsSOXQCW9urS+eYP4FMXIqeaN6rQwHW+TX7xfIYcaNgkyH+b7x0SfyGjSsaqoEfWofiWa1QucrI9 ihara2525@Masahiros-MacBook-Air.local
