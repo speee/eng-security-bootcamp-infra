@@ -1,0 +1,8 @@
+---
+name: hashimoto
+full_name: Shogo Hashimoto
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDv8BK1bSLimdbPes/GfypxR7E0AuqyEyjoRDHomp+C+j5Y2dop2HVaMb9iyW9uIOno8+xyhJmdBtT1i/RZ4JtasbcpnBjhRt9PqVEN9lkhAKyFIOnOI17quWiadXU15SJh134atT2NGbq/4N0PQocXSrV5k4PMIYquBlSkQfYLmfEg4cGe7tIOdSIqOpG+MQ8Be1jNx3uGKG/SfB3f0OnFYOymoxdm7SsAE+OgIbT1Lwm6jzaj+cAqVR8kE4WrOteLM4zAnkJUX9zecuyVuXR+A0JRlkS5q4fzw/o4yfUL2/wfbaWs14v0wxjP+SXay61N5SAZkehepVpcQPQc+cW3 hashimoto@hashimotoshougo-no-MacBook-Pro.local
