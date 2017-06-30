@@ -1,0 +1,8 @@
+---
+name: iida
+full_name: Hayato Iida
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC86yiwQyDUQMUKWkbsWDEj2fMUUR/27tQoGKesIrpq0fn18jh4jK9G1BK3ZiZ4ZDWo5L9jKPLp2mY2325XoPavwTbsWcmnyWmQC1V7p0yTnCfGONj6rDp9xMWP3BwnTOlBFdtoc6q4jrk26gcdJz8mlTsz1zG9vtZfjC35h81SEQqv/WjXhMJ7h/pLop+FCAQD0FNo/I3ylP0qTyGFr74j5OQl4HQJZAQXEDV22IyFLdA3LKTh2tSC2W+WI6AaSn2IvFxf7Ffmc6Ml5YiX2HjkzutK6VV5YhzZ6hUwLBw677WL9rPrYWBoucjno0TV0hEmvqrxD36fXdxXN56gReFz hayatoiida@hayatoiida-no-MacBook-Air.local
