@@ -1,0 +1,8 @@
+---
+name: kawakubox
+full_name: Shigefumi Kawakubo
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD58eSIlXsVrje6dapCc3Yt8LKLJugLhwC0HAlQDwhbC65WYIuYX194E4SNK+TACx5jlYvtkEu7rPcGvvJ76IjW64RPBeWPRibBxIdI2t5Om9tKGT33OPNTS8gxdc4xItdIUk72xHaoJ/fmiT1lXi1/puvRPZqUBn1yqBk7W8jgQ+Mm0I8qRLopw11bnAhOloqLkig8eFMolyB9A7dy5ZtPBECJrjJXeHUXd2ujw6NrLSPbqqVkSdsWMnYtJT1SoaMVFZPVvahWG2qQGDcUXIEobZ1w02BQjh5dVAEeLj44YTKaRZFXZ0TALChEQVlhsTxlVzrJsLDkgvreoQxU4tkb kawakubox@speee.jp
