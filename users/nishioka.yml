@@ -1,0 +1,8 @@
+---
+name: nishioka
+full_name: Hirokazu Nishioka
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+WH0v0SNlNjleViBjw9ndYOoVaYV2TE0nr45VOS7/Peb0LkEy/06ba//6MphSzBLZdS06cHvZu+sbGwoHvtSlAhwY9r2YhPT1eIeH/8NDRbEmn0Sny7QJnfaAtHfyNMljp32SitUKFfv0yhHoTBHDi1pyEJBLDZ/DQweuR7oyjptq4ihFLQSrg6JTSwbtHdp9XRXczcZcWGeeWO7YFCL+Rsr+73q3Ji7ZuOuklG3GTqR+ocSAgwmH18RUsLQuOVRG1qdpBNNQ6wRZ+VXbTFdkLCFemHPrHT12CfQtne+eTE3D1OorQz1sldrPrb0C5vVBQi7BN3zLugoxSFOHqh0O5uBHAle+z88LWUAs5BwaJH5bu7U3468zprIeQPZRyyD6L/hxhjX3NVil5yBU8/FQVs4l/tSg6H88lVjphqLVVAXtkWnDhFJLqeGUdnLBffBnKRV1cYStF92UpyB+qdTdCMDdk9XxpHnaeThHKnDdffcHt3/vI6MvVahMdr8jTKAVndGV7EqvW/r+HFb33rC6w/qYWNl0cx9gCrKZzW798hDNtfvXDnDl4IDFP/eKc22NVJNqC0u6lLxZKslfQu27cGTO2/Ns8JTPCjvt140KUHr+SHfEHphIPOhb1G9ETqCAdIgHjHabTdsuY6XqF6ByQZYQPc6fCQ5q+Sh1j0eApQ== hirokazu.nishioka
