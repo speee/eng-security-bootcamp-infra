@@ -17,9 +17,9 @@ resource "aws_route53_record" "bastion" {
 resource "aws_route53_record" "wildcard" {
   zone_id = "${aws_route53_zone.primary.zone_id}"
   name = "*"
-  type = "A"
+  type = "CNAME"
   ttl = "60"
-  records = ["${aws_instance.rproxy.public_ip}"]
+  records = ["${aws_elb.elb_rproxy.dns_name}"]
 }
 
 resource "aws_route53_zone" "internal" {
