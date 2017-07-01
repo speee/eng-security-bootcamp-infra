@@ -1,0 +1,8 @@
+---
+name: yokoi
+full_name: Satoshi Yokoi
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCvOzbsLxeVrt9lAP8PwX0VwsN0IFZlzK7Nv3x/2Kxh/mRdsjY6vmSx85pyUETtFt2TKK6bUKpbSWMvS1me6xnxfCMBtLiCbiduO2ptvSKu1n9kBHdgAtlhAagPm3bJLg0j4R876zLVvATUq/BnnoEVxryMVb3kqr9OczFRt2LRMkd+ZlHc9fz/gNIkEzCo+qvplRbWYGN7Cg3T2ALxyfKGJHhpXYIUeFUuek1zj/UsG4g/ke4kdNlGSHHoPbLuBJVvxmlAGfzLZ9CZMeos2gdQ4H3jOv16N2MbXUHVhhAKqgWXeUOHD5iGhpzJfaFkX9bK7T4R4grslILYm4wg5dqz lancers197-01@PC-140.local
