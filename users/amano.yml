@@ -1,0 +1,8 @@
+---
+name: amano
+full_name: Taichi Amano
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCUzV5NeX5BO3vn5T/r0yL8Cy9WiTsoXZ9bkwrIewO41yQJUE1r0rlkCTsKHRkCC7agRYTqY+X955R/Bvd4o5fo7UbamK+YBuRcSMNXSHu395O9mxMIuMSPwsLVkMdYX3Yza6naHiOFe4TWhtfUDPftug4buX7aUe81alyixGhwcGf5DEyilX2ortFP6J6hXYr+RyfL3agoP73QLOFRtBHdm2khwOtwLBu/2UYhdt77uKZTXOQGC74uttEGvGKKm4VK96ccCDBorzYffhW7UwhLsOUvEHMjbiw9WIEIAzWxjkFyeKrPVK0DDXyBEGnAi0SBtzc1d9xnFuSYwa9S3tl5 taichi.amano@amanos-MBP.local
