@@ -1,2 +1,1 @@
-execute 'add-apt-repository -y ppa:brightbox/ruby-ng'
-execute 'apt-get update'
+execute 'add-apt-repository -y -u ppa:brightbox/ruby-ng'
