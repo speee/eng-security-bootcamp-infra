@@ -1,3 +1,5 @@
+# Packages
+
 include_middleware 'users'
 include_middleware 'nodejs'
 include_middleware 'php-fpm'
@@ -13,3 +15,11 @@ include_middleware 'libmysqlclient-dev'
 include_middleware 'mysql-client'
 include_middleware 'mysql-server'
 include_middleware 'nginx'
+
+# MySQL
+
+include_middleware 'my_cnf-app'
+
+service 'mysql' do
+  action [:enable, :start]
+end
