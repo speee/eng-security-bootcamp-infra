@@ -14,6 +14,7 @@ include_middleware 'libxslt1-dev'
 include_middleware 'libmysqlclient-dev'
 include_middleware 'mysql-client'
 include_middleware 'mysql-server'
+include_middleware 'mysql-root-password'
 include_middleware 'nginx'
 include_middleware 'unicorn-service'
 
