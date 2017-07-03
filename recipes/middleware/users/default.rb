@@ -1,8 +1,6 @@
-host = node[:host]
-team_no = node[:team_no]
+p host = node[:host]
 
 if attrs[:users][host]
-  p attrs[:users][host]
   attrs[:users][host].each do |username|
     user_info = node[:users][username]
 
