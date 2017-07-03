@@ -1,0 +1,8 @@
+---
+name: morioka
+full_name: Shuhei Morioka
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDM+3MVbO7Yq1NI2f3dHFy7SEacVK+qTlOkLsiQ8bWHqSA17Ko0mgYDsHvzUQzauOwiDd18IdZiw/N7Olvm9uNy5D2aLqudRZFZurxURHmRa+Mcu0IDsuBl/HMbRGj6XMqQqqBBaiJeVwaphG7fnT4o+1GNLDMYiu7ConkhiTNEwrJCcuOBN+IO0F1w20zm1W08FchQ3HrzDdj6UVGFqBWp3xe8BPzsv674TARB7CO31sFvNlFRgqZDAg+c0VT1VaAhxqkjQCZDWho1yr3lxycFVzI8wYwYst1YQ4mkOLQElMojwT82S1hhAuDU7z0h3ky2AbcwyefwCrqYcQrCxQsn selmertsx@gmail.com
