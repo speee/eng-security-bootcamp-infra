@@ -1,0 +1,8 @@
+---
+name: takanamito
+full_name: Takahiro Kiso
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxMiXY6g5yiqT2OuAtmy3mAOuX2vEFr/+FzVaM19D1YkXULbFunu5oX2aDNGIaLECa+obI6XZNFxbO05I6ZPSmvs1mZ5WyVTmuOiWNXeLQP7/mp9K9nUdSxpUnP1Ybeyd7us7FCmpBMcCXx+jmrkrjrkb5rn86FyNH8Tj3VyKYNRfZZzW40XH2knL/nNqp1lHp1yrvG65K9yS7Wl00jPAh0eGXbLNBQUpMJq0nqwuZNvlcnPs6ycuCpPyxsN+4r64TFxNI+wyUfGbevZwRSoGcjoaUaSnSsbHYNqhI9fep+PU5tKcFJ5eIjACi8A+ZNshgdh7UhDNGV4eqMHgba+gX
