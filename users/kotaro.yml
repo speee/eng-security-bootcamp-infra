@@ -1,0 +1,8 @@
+---
+name: kotaro
+full_name: Kohtaro Nishi
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfxqcqQJ9lfAyWy4wYR4+WjaKOVoBcHBQdRU9BAwQMC9D/Ad+btFUxj5hW9IzWQeHWkoce/QgoZ+xQVz57ZtmIkrTt5zXuTP3Fo+ZNdcoL1wbGXiQoVu0AygK7JNXnvNRzaxQHgp8XAuLSUh+ByDZdB0QQvMwvkxO+Q1qaDii0Z5j1G3BT34H0mohHprVqclMI8PxQErtEsltlxQidzIsQyhgNKwPy+itfWrR3GzjuGV0ViXmbMgkJKP7xVMVT+t6pChfRnE31i5bp8kTdQCLroACOS9hJWrrRuabnJJgS94pIQZv0z/ISvI74z2P3QNpjaeLY839ykxn13es5Tbgx kotaro.nishi@KohtaroNISHI-MacBook-Pro.local
