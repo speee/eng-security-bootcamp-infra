@@ -1,0 +1,8 @@
+---
+name: anochick
+full_name: Daiki Ueno
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDRWcTjp9eF9GLieszzqZAnGkI9LBgmL8AWfA9SIHyjfiYTNz/BrdROsLy1txA2kr3RID1jkXuEjkzBRkP4Z01K4JgoMYKx7LRVmWZzspl9Y23IVXrXf7XqFW+LoV/J52bWDl8JOjIcUkl/+izdCmgq6RC97T/8m+3i6loCdfeqxW1BrrLmVpYBYgTwlTwBYwPnm4E4GyVBm7eS9V8HmA0G06r2IjPhj41anfLM30DywSM7QyCJfLVF33+ZEWVKRPdxMXaFoEyuq+dFEF5epYle50dY0z1jTwYOu/IQtW8IJuvOhVnDJrcZMLE3FRDHknCiH6XYzwPSKnGwZqUckYjf daikiueno@Daiki-no-MacBook-Pro.local
