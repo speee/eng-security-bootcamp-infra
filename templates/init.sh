@@ -1,6 +1,6 @@
 #! /bin/sh
 
-useradd -U -m -s /bin/bash infra
+useradd -U -u 900 -m -s /bin/bash infra
 mkdir -p /home/infra/.ssh
 chmod 700 /home/infra/.ssh
 echo "${infra_pubkey}" > /home/infra/.ssh/authorized_keys
