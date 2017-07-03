@@ -1,0 +1,8 @@
+---
+name: nyamadori
+full_name: Manabu Nakajima 
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDxboc2mHpmg/t3w7uXj101wzzJG+SsDj1YQ9MUEVcZ/i8gvlMRWoObf7nGtdJyaYRxkO/7I6R2Jsw/yUnA2gcX/peV+u/cFHIBEt8YlnKiv79Vkbf3OTSj5BJxjhaIjY+exZ+HuxSqrqxWq6y0+VGYL5gpcc3Mbq9Ip+PuFyZB5ElpdE+zi4i244W7wLAVvnm3LjuEAHVpKIeWf58twT5WUfF4cVWszJVSd4haHZxtG0ncFNaQM6C92p+usUifeTxE5yw4xA96x1i5m9AtVFPkR/jvdnQKJ9XgTiY9LugsQcNyDSLcveuULb190tyIbYtLrzTpACvkigVK6oUQI5V/gp7pbA3PyvLNuOTwcXHgupYqPuuthTv7UOFAoxE0GNI6+kIF+DJHojW2PKFTLtsQPbVdXgo+W+GoxUK6oP2IqroKinwA/MbBjJN6Ml0ScZMPSx2bYhdZsQtyxLZLFJJnEtBTAXM2gwKyATIuZXHe01x9+NA7QA6PaOUKRFTXIYosLGstyXWCtSGkkoSiZpG7OfNqEpuiHTCz9cIpmCbdwbIUHO6Zsis7hlMgPkt5KBUkO3JvqKwtF2OasicRQ0q5VwEngggTFUNJvC09Q28/huo5pVmDfUaniXumafKTvMpY6f39s/SWSsgNxT8ySiEbOYtouIfppnXtOnd5ApfjQ== nyamadorig@gmail.com
