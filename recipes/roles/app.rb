@@ -20,6 +20,16 @@ include_middleware 'nginx'
 
 include_middleware 'my_cnf-app'
 
+# Nginx
+
+include_middleware 'nginx/conf/app'
+
+# Services
+
 service 'mysql' do
+  action [:enable, :start]
+end
+
+service 'nginx' do
   action [:enable, :start]
 end
