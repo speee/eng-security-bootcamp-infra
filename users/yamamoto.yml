@@ -1,0 +1,8 @@
+---
+name: bino98
+full_name: Takafumi Yamamoto
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPFGZ1SiqUd36V1yfWiPeezm7O53uSSLHrAhR65GYfyN3zOD+T6xIOSSxr5KoANEuZNuhcVzwRBwxvj2/fo96u18uqR7LNAu7pAqNrkM5tSmEVI7Z39hoypw7sMJYZyGhEP0esV5yypTmH7AYI486NN+i3ECQVzVvoVdGjSAX81iqyU62h8dhW4evNZfjdAEHjaPsbahyN6FSQxkzMSGd5Avoi/bS5I1nTPO0KPsf+GiRY3pYFnsX9+dbCUMHSU1K+iVERyCqCEULUKB0vzWV6B5/jW1LnBqqUVppItfRn6DNTecZCjBT5rw/guV5xTJFGUPfOd1ro5Dur3ZmZW1LV bino98@Takafumi-no-MacBook-Pro.local
