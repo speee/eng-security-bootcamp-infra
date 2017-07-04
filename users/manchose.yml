@@ -1,0 +1,8 @@
+---
+name: manchose
+full_name: Nobuya Sasaki
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4z4iOR59ktkcFF/ejvMWtWtDexQd1/E2PvdzcCLVWHhqEM/zDfl8KcYXJhDVK4Vj/5CSRp60PB2TWh3AkRJBgNKnUBHznTP8w6j6yQDxREJ9ft81Y1P5qa45myKwebQ6nq0djnw/8otNVyGmm0cchNzc7TiNZo/QvT6hp0QS6cwQ8qhC4Z4Ct4wAy5ek/yGHa3rxaLfm7oMxiXdN6FcAf7Cvm5ONzppqjCFPkW7gZpXYX0SRuLucudoU4ZGA2jfHj6pSVvQi9WxraLoo2CvzthAWj275Zd07rM2E2ipqlyy5kymQrjafT8EyWqL39/JD4zGTb20//WbO3RdoQ5DC/ sasaki_nobuya@sasakinobenari-no-MacBook-Pro.local
