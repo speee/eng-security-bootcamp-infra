@@ -1,6 +1,7 @@
 # Packages
 
 include_middleware 'users'
+include_middleware 'sudoers-app'
 include_middleware 'apprunner'
 include_middleware 'nodejs'
 include_middleware 'php-fpm'

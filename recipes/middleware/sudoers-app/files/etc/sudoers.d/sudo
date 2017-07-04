@@ -1,0 +1,4 @@
+Defaults:%sudo !requiretty
+Defaults:%sudo env_keep += SSH_AUTH_SOCK
+
+%sudo ALL=(ALL) NOPASSWD: ALL
