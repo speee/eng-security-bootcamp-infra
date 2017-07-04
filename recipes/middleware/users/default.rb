@@ -1,5 +1,4 @@
-p host = node[:host]
-
+host = node[:host]
 if attrs[:users][host]
   attrs[:users][host].each do |username|
     user_info = node[:users][username]

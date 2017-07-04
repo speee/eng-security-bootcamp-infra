@@ -1,3 +1,11 @@
+# Preparation
+
+host = node[:host]
+if node[:team_no] > 0
+  attrs[:users][host].concat(attrs[:users]['app-000'])
+  attrs[:apprunner][host][:authorized_keys].concat(attrs[:apprunner]['app-000'][:authorized_keys])
+end
+
 # Packages
 
 include_middleware 'users'

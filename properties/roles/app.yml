@@ -2,51 +2,51 @@
 attributes:
   users:
     app-000: [mrkn, nishimunea, yonashiro, katsuya, shimizu]
-    app-001: []
-    app-002: []
-    app-003: []
-    app-004: []
-    app-005: []
-    app-006: []
-    app-007: []
-    app-008: []
-    app-009: []
-    app-010: []
-    app-011: []
-    app-012: []
-    app-013: []
-    app-014: []
-    app-015: [mrkn, nishimunea, yonashiro, katsuya, shimizu]
+    app-001: [iida, mitsuyoshi]
+    app-002: [hatappi, suthio]
+    app-003: [toshihiro, anochick]
+    app-004: [kawakubox, satoshi]
+    app-005: [bino98, yamaura]
+    app-006: [kotaro, miyachik]
+    app-007: [takanamito, yhatt]
+    app-008: [gfx, morioka]
+    app-009: [ihara, yokoi]
+    app-010: [amano, yoshida]
+    app-011: [nishaya, tei]
+    app-012: [hashimoto]
+    app-013: [nishioka]
+    app-014: [manchose, nyamadori]
+    app-015: []
   apprunner:
     app-000:
       authorized_keys: [mrkn, nishimunea, yonashiro, katsuya, shimizu]
     app-001:
-      authorized_keys: []
+      authorized_keys: [iida, mitsuyoshi]
     app-002:
-      authorized_keys: []
+      authorized_keys: [hatappi, suthio]
     app-003:
-      authorized_keys: []
+      authorized_keys: [toshihiro, anochick]
     app-004:
-      authorized_keys: []
+      authorized_keys: [kawakubox, satoshi]
     app-005:
-      authorized_keys: []
+      authorized_keys: [bino98, yamaura]
     app-006:
-      authorized_keys: []
+      authorized_keys: [kotaro, miyachik]
     app-007:
-      authorized_keys: []
+      authorized_keys: [takanamito, yhatt]
     app-008:
-      authorized_keys: []
+      authorized_keys: [gfx, morioka]
     app-009:
-      authorized_keys: []
+      authorized_keys: [ihara, yokoi]
     app-010:
-      authorized_keys: []
+      authorized_keys: [amano, yoshida]
     app-011:
-      authorized_keys: []
+      authorized_keys: [nishaya, tei]
     app-012:
-      authorized_keys: []
+      authorized_keys: [hashimoto]
     app-013:
-      authorized_keys: []
+      authorized_keys: [nishioka]
     app-014:
-      authorized_keys: []
+      authorized_keys: [manchose, nyamadori]
     app-015:
-      authorized_keys: [mrkn, nishimunea, yonashiro, katsuya, shimizu]
+      authorized_keys: []
