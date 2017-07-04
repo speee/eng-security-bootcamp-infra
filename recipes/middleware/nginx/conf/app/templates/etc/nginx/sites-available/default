@@ -4,7 +4,7 @@ server {
         listen 80 default_server;
         listen [::]:80 default_server;
 
-        root /home/apprunner/bootcampsns;
+        root /home/apprunner/bootcampsns/current;
 
         # Add index.php to the list if you are using PHP
         index index.html index.htm index.nginx-debian.html;
@@ -12,13 +12,13 @@ server {
         server_name <%= @server_name %>;
 
         location ~ \.php$ {
-                root /home/apprunner/bootcampsns/public;
+                root /home/apprunner/bootcampsns/current/public;
                 include snippets/fastcgi-php.conf;
                 fastcgi_pass unix:/run/php/php7.0-fpm.sock;
         }
 
         location / {
-                root /home/apprunner/bootcampsns/public;
+                root /home/apprunner/bootcampsns/current/public;
                 try_files $uri/index.html $uri @unicorn;
         }
 
