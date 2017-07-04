@@ -65,7 +65,7 @@ resource "aws_security_group" "app_000" {
 }
 
 resource "aws_instance" "app" {
-  count = 2
+  count = 15
   ami = "${data.aws_ami.ubuntu-xenial.id}"
   instance_type = "t2.micro"
   disable_api_termination = true
@@ -92,7 +92,7 @@ resource "aws_instance" "app" {
 }
 
 resource "aws_route53_record" "app_internal" {
-  count = 2
+  count = 15
   zone_id = "${aws_route53_zone.internal.zone_id}"
   name = "${format("app-%03d", 15 - count.index)}"
   type = "A"
