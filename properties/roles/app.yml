@@ -16,3 +16,34 @@ attributes:
     app-012: []
     app-013: []
     app-014: []
+  apprunner:
+    app-000:
+      authorized_keys: [mrkn, nishimunea, yonashiro, katsuya, shimizu]
+    app-001:
+      authorized_keys: []
+    app-002:
+      authorized_keys: []
+    app-003:
+      authorized_keys: []
+    app-004:
+      authorized_keys: []
+    app-005:
+      authorized_keys: []
+    app-006:
+      authorized_keys: []
+    app-007:
+      authorized_keys: []
+    app-008:
+      authorized_keys: []
+    app-009:
+      authorized_keys: []
+    app-010:
+      authorized_keys: []
+    app-011:
+      authorized_keys: []
+    app-012:
+      authorized_keys: []
+    app-013:
+      authorized_keys: []
+    app-014:
+      authorized_keys: []
