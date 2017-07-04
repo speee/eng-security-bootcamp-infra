@@ -44,8 +44,8 @@ resource "aws_security_group" "elb_rproxy" {
       "124.35.253.130/32",
       # mrkn
       "153.175.224.167/32",
-      # yonashiro
-      "111.239.72.137/32"
+      # RTC
+      "133.130.119.6/32"
     ]
   }
 
