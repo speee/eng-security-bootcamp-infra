@@ -65,7 +65,7 @@ resource "aws_security_group" "app_000" {
 }
 
 resource "aws_instance" "app" {
-  count = 1
+  count = 2
   ami = "${data.aws_ami.ubuntu-xenial.id}"
   instance_type = "t2.micro"
   disable_api_termination = true
@@ -87,14 +87,14 @@ resource "aws_instance" "app" {
   user_data = "${data.template_file.user_data.rendered}"
 
   tags {
-    Name = "${format("app-%03d", 15)}"
+    Name = "${format("app-%03d", 15 - count.index)}"
   }
 }
 
 resource "aws_route53_record" "app_internal" {
-  count = 1
+  count = 2
   zone_id = "${aws_route53_zone.internal.zone_id}"
-  name = "${format("app-%03d", 15)}"
+  name = "${format("app-%03d", 15 - count.index)}"
   type = "A"
   ttl = "30"
   records = ["${element(aws_instance.app.*.private_ip, count.index)}"]
