@@ -1,0 +1,8 @@
+---
+name: satoshi
+full_name: Satoshi Nakajima
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDITiptudcBRtsk9ciOyX3iyhA0+D9806U8CXQUzyQR1f+cx7lS8mEWpFo8bcQUsVUIOrpS0dJ7b+ZGrVRdAOXUWj6sqds4HQ81ds8pjuse5QQhpzkJr5cx+jWEjhhLsCW/nIixr/mc2tdpThrYLkaMbkX33FYmgn/fgqXOqaqBb3SyaSLwmT14ZJ1G1gNqFMzojI3DWbCyonxhvA2dzmWDToJ9qfqSp9N7HhSJgvYgahOmuz9iLA7ZC+48/tDTZPuQmBlme5CxvlX4R2zeZt46tKL6AYAG5Bw/f7cSDh61qQjNEJLK89ylcxia0+CvQ7ggtStz3/QC2SKXKCvFMkKp satoshi.nakajima@Apple055
