@@ -9,12 +9,6 @@ user "apprunner" do
   create_home true
 end
 
-remote_file '/etc/sudoers.d/apprunner' do
-  owner 'root'
-  group 'root'
-  mode '0644'
-end
-
 directory '/home/apprunner/.ssh' do
   owner 'apprunner'
   group 'apprunner'
