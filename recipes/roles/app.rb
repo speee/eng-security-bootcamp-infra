@@ -8,6 +8,7 @@ end
 
 # Packages
 
+include_middleware 'base'
 include_middleware 'users'
 include_middleware 'sudoers-app'
 include_middleware 'apprunner'

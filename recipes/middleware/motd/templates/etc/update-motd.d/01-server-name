@@ -1,0 +1,8 @@
+#!/bin/sh
+
+printf "\n"
+printf "Speee Security Bootcamp powerd by Recruit Technologies Inc.\n"
+printf "\n"
+printf "Name:  <%= @host %>\n"
+printf "Roles: <%= @roles.join(' ') %>\n"
+printf "Team:  <%= "0ABCDEFGHIJKLMNOPQRSTUVWXYZ"[@team_no] %>\n"
