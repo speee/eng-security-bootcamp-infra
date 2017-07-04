@@ -17,7 +17,6 @@ include_middleware 'mysql-client'
 include_middleware 'mysql-server'
 include_middleware 'mysql-root-password'
 include_middleware 'nginx'
-include_middleware 'unicorn-service'
 
 # MySQL
 
@@ -35,8 +34,4 @@ end
 
 service 'nginx' do
   action [:enable, :start]
-end
-
-service 'unicorn' do
-  action [:enable]
 end
