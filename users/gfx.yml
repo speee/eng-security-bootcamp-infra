@@ -1,0 +1,8 @@
+---
+name: gfx
+full_name: FUJI Goro
+shell: /bin/bash
+home:
+  .ssh:
+    authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA4v3n4LGi91RTkAmykJ6l5UFxCi8xnQ5aB4abiUozGDwh18rDN1GXGj+Z+QDNtoEvZYuStrdH/JszPJWj3jKMwIACu37oNVeFoFXvtVrZ0KrppSGuNXx/Jifs+VuvdhE4IZ2Okd9Zz0emhUIuQUF2HE/b2irWv+XVGDeG9OMLY2xFuZnE/5LAqFhGxZbswXhyHSypVxpCuyxGEXWYOHSE0TT5eJIGiZaTpjVd9BKRkTRKPjQzSpiLNumGIknH2pRT0PyZJYbg+QWET5VLS2D4iD/u84mSLOsC1ruUHQJCvZtYGEC9JacbTcr1jwF/ZHbN79nTqkDXuB3H5vwcxj5Mcw== gfx@mbp2015
