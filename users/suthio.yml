@@ -5,4 +5,4 @@ shell: /bin/bash
 home:
   .ssh:
     authorized_keys:
-    - ssh-rsa ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINyzEIttKg6Jg92OtXDEEXaLc5l4BUp87jG7HmZvKz9K yuma.iwasaki@speee.jp
+    - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINyzEIttKg6Jg92OtXDEEXaLc5l4BUp87jG7HmZvKz9K yuma.iwasaki@speee.jp
